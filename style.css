@@ -1,0 +1,49 @@
+body {
+  background-color: #182741ec;
+  font-family: 'Roboto', sans-serif;
+}
+
+.mouth h1 {
+  color: white;
+  font-size: 50px;
+}
+
+.week div{
+grid-template-columns: repeat(7, 70px);
+display: inline;
+text-align: right;
+color: white;
+font-size: 50px;
+
+}
+.days{
+  display:grid;
+  grid-template-columns: repeat(auto);
+  text-align: right;
+  
+  
+  color: white;
+  margin-right: 1600px;
+}
+.days div {
+  
+    font-size: 40px;
+    border: solid;
+    border-width: 0.1px;
+    padding: 100px 100px 10px 20px;  
+}
+
+.days div:hover {
+background-color: #4FFFF4;
+color: white;
+cursor: pointer;
+}
+.days div:first-child {
+  grid-column: 7;
+}
+
+.days div:hover {
+background-color: #4FFFF4;
+color: white;
+cursor: pointer;
+}
