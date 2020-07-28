@@ -1,3 +1,3 @@
 # FW7
  Challenge
-<img src=”icons/calendar.png”>
+<img src=”../icons/calendar.png”>
