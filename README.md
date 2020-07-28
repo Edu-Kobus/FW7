@@ -1,3 +1,4 @@
 # FW7
  Challenge
-# ![](\challenge\icons\calendar.png)
+
+![alt text](/icons/calendar.svg)
