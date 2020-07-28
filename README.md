@@ -1,4 +1,4 @@
 # FW7
  Challenge
 
-![alt text](/icons/calendar.svg)
+![alt text](/icons/calendar.ico)
